@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pup+0XGngDRXewYiOs3w/y/cB2aGf9LgIW4bYXBm4rNL3lfEQBp5YlI8RNxnvvoMFEsOpyuWp40mPW4kot4/zw==",
+  "success": true,
+  "projectFilePath": "D:\\Ruzimurod\\Projects\\ASP.Net Core\\FirstMVCProject\\MyBlog\\MyBlog.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\bootstrap\\5.1.3\\bootstrap.5.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}
